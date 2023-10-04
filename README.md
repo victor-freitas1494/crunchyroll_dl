@@ -8,3 +8,5 @@ Na primeira parte são listadas as funções que serão utilizadas para o proces
 2.Fila: Essa função gera uma fila para os downloads.
 3.Legenda: Nesta ele faz o download das legendas do referído vídeo.
 4.Conversor: E por fim, no conversor os dois arquivos são selecionados e convertidos para MKV.
+
+substituto yt-dlp 
